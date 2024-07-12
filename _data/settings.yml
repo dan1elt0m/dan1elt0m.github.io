@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Daniël Tom - Personal Blog
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: /images/daniel.jpg # You can add own logo. For example '/images/logo.png'.
 description: ...
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -32,7 +32,7 @@ hero:
 author:
   author__name: Daniël Tom
   author__bio: ...
-  author__avatar: /images/01-1.jpg
+  author__avatar: /images/daniel.jpg
 
 
 #-------------------------------
